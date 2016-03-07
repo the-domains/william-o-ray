@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.2574468
+color:
+  lightness: 0.7489362
+  brandStrength: 0.1957447
+  saturation: 0.3340425
+  rhythmicContrast: 0.2510459
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: "William O'Ray"
