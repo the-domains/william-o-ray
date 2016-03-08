@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[William O'Ray]]></title>
         <description><![CDATA[William O'Ray]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/william-o-ray/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 06:46:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 08 Mar 2016 06:46:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/william-o-ray/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Soon coming : First composition sessions in studio !]]></title>
             <description><![CDATA[<article><h1>Soon coming : First composition sessions in studio !</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec8adbc2140b1461e7e78349c91200ae77a8053e.jpg"></article>]]></description>
-            <link>undefinedsoon-coming-first-composition-sessions-in-studio/index.html</link>
+            <link>https://thegrid.ai/william-o-ray/soon-coming-first-composition-sessions-in-studio/index.html</link>
             <guid isPermaLink="false">8c974749-2a36-4b29-981a-022f937f753c</guid>
             <pubDate>Tue, 08 Mar 2016 06:45:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New in studio : Komplete Kontrol S88 ]]></title>
+            <description><![CDATA[<article><h1>New in studio : Komplete Kontrol S88 </h1><p>Enter a new era. The all-new Komplete Kontrol S-Series turns Komplete Instruments into a unified, intuitive, and inspiring playing experience. http://www.the-komplete-instrument.com Komplete Kontrol S-Series keyboards unite the world of Komplete software with a perfectly-integrated and luxurious hardware controller. These keyboards offer pure creative flow and a whole new way to play Komplete - this is truly the komplete instrument.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9cb311658469e6d2bff03aff5187741520725ce7.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=o_9Xg_kqJls</link>
+            <guid isPermaLink="false">4e830d27-e00c-427b-9fe5-66ff9edc2139</guid>
+            <pubDate>Tue, 08 Mar 2016 06:45:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
