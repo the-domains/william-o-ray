@@ -1,14 +1,28 @@
+name: "William O'Ray"
+favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.2574468
+typography_spectrum: 0.12647
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  lightness: 0.7489362
-  brandStrength: 0.1957447
-  saturation: 0.3340425
-  rhythmicContrast: 0.2510459
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-name: "William O'Ray"
+  brandStrength: 0.9375
+  lightness: 0.5625
+  saturation: 0.625
+  rhythmicContrast: 1
+purpose: []
