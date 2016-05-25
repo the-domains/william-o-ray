@@ -1,28 +1,40 @@
-name: "William O'Ray"
-favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.12647
-cta:
-  domain: null
-  bucket: null
-  version: null
+favicon: null
+name: "William O'Ray"
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+cta:
+  version: null
+  bucket: null
+  domain: null
 color:
+  brandStrength: 0.5
+  lightness: 1
+  saturation: 0.819149
+  rhythmicContrast: 0.3297872
   brandColors:
     - '#ffffff'
     - '#18130f'
     - '#bcbbb9'
     - '#4b4744'
     - '#c1582c'
-  brandStrength: 0.5
-  lightness: 0.5625
-  saturation: 0.375
-  rhythmicContrast: 1
-purpose: []
+typography_spectrum: 0.12647
